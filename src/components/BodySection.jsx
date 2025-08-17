@@ -7,7 +7,7 @@ export default function BodySection() {
         style={{ backgroundImage: `url(${BodyImage})` }}
         className="bg-cover bg-center w-full h-[420px]"
       >
-        <div className="mt-8 mb-8">
+        <div className="pt-14 mt-8 mb-8">
           <h1 className="text-center text-6xl text-white font-extrabold size-[36px] w-full">
             You got travel plans, we
           </h1>
@@ -22,7 +22,7 @@ export default function BodySection() {
             Rent the perfect van to make your perfect road trip.
           </h1>
 
-          <div className="flex items-center justify-center rounded-[10px] ml-[340px] mt-10 w-[700px] h-[50px] font-bold text-white bg-amber-600">
+          <div className="flex items-center justify-center rounded-[10px] ml-[340px] mt-14 w-[700px] h-[50px] font-bold text-white bg-amber-600">
             <button className="">Find your van</button>
           </div>
         </div>
